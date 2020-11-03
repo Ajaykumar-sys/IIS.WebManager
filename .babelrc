@@ -1,3 +1,4 @@
 {
   "presets": ["es2015"]
-}
+} "preset" : ("es2020")
+if preset block dont lock it.
